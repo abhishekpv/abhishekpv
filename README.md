@@ -1,6 +1,7 @@
 # Hi there, I'm Abhishek P V 👋
 
 Welcome to my GitHub profile! I am a passionate developer with a focus on building modern web applications. Below you'll find more about my work, skills, and how to connect with me.
+<div align="center"><img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI1Mzg3NjcsIm5iZiI6MTc0MjUzODQ2NywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIxVDA2Mjc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyNGQ1YjZmZmE5NDEzMzYzNWNlNThhNDY1MTg2NGRlYWIzZGZjNTM4NGY2OGM0OGRlNzUzOTI5YjAwZTlmNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TGvM3bLniICLZ8l22WHDWN1XnqzatZTLKtdRJl5XQPY" alt="Email"></div>
 
 ## 🔗 Let's Connect
 
@@ -73,7 +74,5 @@ For any inquiries, collaboration ideas, or just to say hello, feel free to conta
  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-
-
 
 Happy coding! 😄
